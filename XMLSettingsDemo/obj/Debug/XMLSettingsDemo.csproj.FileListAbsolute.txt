@@ -1,0 +1,11 @@
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\bin\Debug\XMLSettingsDemo.exe.config
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\bin\Debug\XMLSettingsDemo.exe
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\bin\Debug\XMLSettingsDemo.pdb
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\bin\Debug\XMLSettings.dll
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.MainForm.resources
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.Properties.Resources.resources
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.csproj.GenerateResource.cache
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.csproj.CoreCompileInputs.cache
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.csproj.CopyComplete
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.exe
+C:\Programming\XMLSettingsDemo\XMLSettingsDemo\obj\Debug\XMLSettingsDemo.pdb
