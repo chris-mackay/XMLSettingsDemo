@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Application Settings-->
+<Settings>
+  <BorderNone>True</BorderNone>
+  <BorderSingle>False</BorderSingle>
+  <Border3D>False</Border3D>
+  <PictureBoxBackColor>#F0F0F0</PictureBoxBackColor>
+</Settings>
