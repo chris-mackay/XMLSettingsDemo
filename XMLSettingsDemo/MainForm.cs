@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using System.Collections.Specialized;
+using System.Collections.Generic;
 
 namespace XMLSettingsDemo
 {
@@ -14,12 +14,13 @@ namespace XMLSettingsDemo
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            StringCollection settings = new StringCollection();
 
-            settings.Add("BorderNone,True");
-            settings.Add("BorderSingle,False");
-            settings.Add("Border3D,False");
-            settings.Add("PictureBoxBackColor,#F0F0F0");
+            Dictionary<string, string> settings = new Dictionary<string, string>();
+
+            settings.Add("BorderNone","True");
+            settings.Add("BorderSingle","False");
+            settings.Add("Border3D","False");
+            settings.Add("PictureBoxBackColor","#F0F0F0");
 
             XMLSettings.AppSettingsFile = "Settings.xml";
             XMLSettings.InitializeSettings(settings);
